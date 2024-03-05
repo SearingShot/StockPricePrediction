@@ -1,5 +1,3 @@
-# StockPricePrediction
-
 # Stock Price Prediction Project
 
 This project utilizes historical stock price data to predict the future direction of stock prices using machine learning techniques. In this README file, you'll find an overview of the project, the code structure, and instructions on how to run the code.
